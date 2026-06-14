@@ -1,70 +1,128 @@
-# Getting Started with Create React App
+### Expense Tracker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern React-based expense tracking application that helps users monitor income and expenses, visualize spending habits, and gain better control over their finances through an intuitive and interactive interface.
 
-## Available Scripts
+### Overview
 
-In the project directory, you can run:
+Expense Tracker is a personal finance management web application built with React and Chakra UI. The application allows users to record income and expenses, view financial summaries, and analyze spending trends through interactive charts and visualizations.
 
-### `npm start`
+Designed with simplicity and usability in mind, the project demonstrates modern frontend development practices, responsive design, state management, and data visualization.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* Add and manage income entries
 
-### `npm test`
+* Add and manage expense entries
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* View current balance in real time
 
-### `npm run build`
+* Visualize financial data with interactive charts
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* Responsive and mobile-friendly design
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* Smooth animations and transitions
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* Clean and user-friendly interface
 
-### `npm run eject`
+### Tech Stack
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Frontend
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* React 18
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+* Chakra UI
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+* Emotion (CSS-in-JS)
 
-## Learn More
+### Data Visualization & Animation
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+* React ApexCharts
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+* Framer Motion
 
-### Code Splitting
+### Additional Libraries
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+* React Icons
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+* React Scripts
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+* GitHub Pages
 
-### `npm run build` fails to minify
+### Screenshots
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Add screenshots here to showcase the application interface.
+
+Example:
+
+![An expense tracker made with React](https://images.openai.com/static-rsc-4/0sOdt8M3w2k1CsGt3TFEY5uIZqKVONUOfAEd7G5_e6EviHjVp-2gf1Tae9-RAJCoXpGrcZ415zPUhmYrnbm3bJfSeG8Xp3B_nI-XrC7ovyPih4HRahneeBN3aX7-hgnBIgTSvZ6kfB4Q9p1EJTHpJLwXxS7qdvSzMyqb2LSnGswiiaBACyXMgLMbX01nT3Ey?purpose=fullsize)
+
+![Income and Expense Tracker Using HTML, CSS and JavaScript with Source Code | SourceCodester](https://images.openai.com/static-rsc-4/VNU7Q6bvDRGCF9y4AZbjSgfdHpkAEqqlTNMoqR-TSJsTK57iTBDl_BzENFBZ80qGUUaSK-aJYpzIH2pTE2v7a375f9L70WP-uajFdPm5WMvKIIixDoYP0yN0Fcj8X6BsRDnYaPLOw2JjCYXck6_Nh5tWvv8N2xExQQx_B88XhT2-zIF27SxKswkL9hkfYqZk?purpose=fullsize)
+
+![TrackMyExpense - AI-Powered Expense Tracker | Smart Financial Management](https://images.openai.com/static-rsc-4/PVOP9CtbXt3naG6_fgq_aiMkbLNC0Aax_iYks4ZARqq5Hvenej7aMfqrsEfghlibWrdVADeyCJQEoXNUMmpL6DGVEnqsCvMjGYoBglizzmEksNGsB2WkLD4g_1fA_jAQUdMqYBZfu6gWdGRF1ivpB539AHZdTwCTXfhfTZoj6QCoFTrcliZk_OEBrGCuMa5o?purpose=fullsize)
+
+### Installation
+
+Clone the repository:
+
+Navigate to the project directory:
+
+Install dependencies:
+
+Start the development server:
+
+The application will run locally at:
+
+### Build for Production
+
+### Deployment
+
+Deploy to GitHub Pages:
+
+### Project Structure
+
+### Learning Objectives
+
+This project was built to strengthen skills in:
+
+* React component architecture
+
+* State management
+
+* UI development with Chakra UI
+
+* Data visualization and chart integration
+
+* Responsive web design
+
+* Frontend deployment workflows
+
+* Creating intuitive user experiences
+
+### Future Improvements
+
+* User authentication and accounts
+
+* Persistent data storage (Firebase, MongoDB, etc.)
+
+* Budget planning features
+
+* Category-based expense filtering
+
+* Dark mode support
+
+* Export reports as PDF or CSV
+
+* Monthly and yearly financial analytics
+
+### What I Learned
+
+Through this project, I gained hands-on experience building a real-world financial application, integrating chart libraries, managing application state effectively, creating reusable UI components, and designing responsive interfaces that work seamlessly across devices.
+
+### Author
+
+Maryam Rastin
+
+GitHub: [https://github.com/Maryam-Rastin](https://github.com/Maryam-Rastin)
+
