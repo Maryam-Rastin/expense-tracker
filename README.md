@@ -54,13 +54,7 @@ Designed with simplicity and usability in mind, the project demonstrates modern 
 
 Add screenshots here to showcase the application interface.
 
-Example:
 
-![An expense tracker made with React](https://images.openai.com/static-rsc-4/0sOdt8M3w2k1CsGt3TFEY5uIZqKVONUOfAEd7G5_e6EviHjVp-2gf1Tae9-RAJCoXpGrcZ415zPUhmYrnbm3bJfSeG8Xp3B_nI-XrC7ovyPih4HRahneeBN3aX7-hgnBIgTSvZ6kfB4Q9p1EJTHpJLwXxS7qdvSzMyqb2LSnGswiiaBACyXMgLMbX01nT3Ey?purpose=fullsize)
-
-![Income and Expense Tracker Using HTML, CSS and JavaScript with Source Code | SourceCodester](https://images.openai.com/static-rsc-4/VNU7Q6bvDRGCF9y4AZbjSgfdHpkAEqqlTNMoqR-TSJsTK57iTBDl_BzENFBZ80qGUUaSK-aJYpzIH2pTE2v7a375f9L70WP-uajFdPm5WMvKIIixDoYP0yN0Fcj8X6BsRDnYaPLOw2JjCYXck6_Nh5tWvv8N2xExQQx_B88XhT2-zIF27SxKswkL9hkfYqZk?purpose=fullsize)
-
-![TrackMyExpense - AI-Powered Expense Tracker | Smart Financial Management](https://images.openai.com/static-rsc-4/PVOP9CtbXt3naG6_fgq_aiMkbLNC0Aax_iYks4ZARqq5Hvenej7aMfqrsEfghlibWrdVADeyCJQEoXNUMmpL6DGVEnqsCvMjGYoBglizzmEksNGsB2WkLD4g_1fA_jAQUdMqYBZfu6gWdGRF1ivpB539AHZdTwCTXfhfTZoj6QCoFTrcliZk_OEBrGCuMa5o?purpose=fullsize)
 
 ### Installation
 
